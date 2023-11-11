@@ -1,6 +1,6 @@
 # Greetings! I'm Irakli 👋
 
-## Check out my website [HERE](https://irakli.vercel.app/)
+## Check out my website <a href='https://irakli.vercel.app/' target='_blank'>HERE</a>
 ![Capture](https://github.com/irakli182/irakli182/assets/112957853/0bf82cfd-49e1-4af0-90c0-7acd1088e165)
 
 ## About Me 🌟
