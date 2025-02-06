@@ -5,7 +5,7 @@
 
 ## About Me 🌟
 
-🌱 I'm a 19-year-old full-stack developer hailing from Georgia. While I usually occupy my time with full-time employment, I'm always open to exciting freelance opportunities.
+🌱 I'm a 20-year-old full-stack developer hailing from Georgia. While I usually occupy my time with full-time employment, I'm always open to exciting freelance opportunities.
 
 💬 My expertise lies in crafting engaging ReactJS/NextJS applications, making front-end development my forte. However, I'm equally proficient in technologies such as RESTful APIs, PHP, MySQL, and more.
 
