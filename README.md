@@ -1,35 +1,61 @@
-# Greetings! I'm Irakli 👋
+# Irakli Berikashvili 👋  
+**Senior Full-Stack Developer**  
+📍 Tbilisi, Georgia | 📞 (+995) 555-411-337 | ✉️ irakilibusiness1@gmail.com  
+🌐 [Portfolio](https://irakli.vercel.app/) | 💻 [GitHub](https://github.com/irakli182)  
 
-## Check out my website <a href='https://irakli.vercel.app/' target='_blank'>HERE</a>
-![Capture](https://github.com/irakli182/irakli182/assets/112957853/0bf82cfd-49e1-4af0-90c0-7acd1088e165)
+---
 
-## About Me 🌟
+### 🚀 **About Me**  
+20-year-old **Senior Full-Stack Developer** with **4+ years** of experience building scalable web apps and AI solutions. Winner of **Google Startup Accelerator 2024** and co-author of a peer-reviewed scientific paper. Passionate about Next.js, NestJS, and sustainable tech.  
 
-🌱 I'm a 20-year-old full-stack developer hailing from Georgia. While I usually occupy my time with full-time employment, I'm always open to exciting freelance opportunities.
+---
 
-💬 My expertise lies in crafting engaging ReactJS/NextJS applications, making front-end development my forte. However, I'm equally proficient in technologies such as RESTful APIs, PHP, MySQL, and more.
+### 🏆 **Key Achievements**  
+- **Google Startup Accelerator 2024 Winner**: Led development of [Biliki.AI](https://biliki.ai) (AI-driven sustainable travel platform).  
+- **Published Scientific Paper**: Co-authored research on structural analysis of complex systems (presented in Vienna, 2023).  
+- **Early Leadership**: Promoted to **Lead Developer** roles by age 19, automating workflows by 40% at GM Pharma.  
 
-## Projects 🚀
+---
 
-Here are some of the projects I've worked on:
+### 💻 **Technical Skills**  
+**Frontend:** Next.js, React.js, TypeScript, TailwindCSS  
+**Backend:** NestJS, Node.js, Python, GraphQL, REST APIs  
+**Cloud & DevOps:** AWS, Google Cloud, Docker, CI/CD, MySQL  
+**AI/ML:** Vertex AI, OpenAI, predictive modeling  
+**Tools:** Git, JIRA, Linux, WebSockets  
 
-1. [Weather App](https://amindi.vercel.app) - Weather App built using API
-2. [Minting App](https://nnn-minting-ui-v2-nextjs-oxpdz3xs5-novem-dev-team.vercel.app/) - Token Minting App
-3. [3x3 matrix invertion tool](https://cramers.vercel.app/) - 3x3 matrix invertion tool with explenations
-4. More projects can be found on my personal website.
+**Languages:** Georgian (Native) | English (Advanced) | Russian (Conversational)  
 
-## Learning Journey 📚
+---
 
-I'm currently pursuing a degree in Computer Science at the University of Georgia. My curriculum includes diving into C++, Java, and a host of other fascinating subjects, not to mention a dash of networking and systems administration.
+### 🛠️ **Professional Experience**  
 
-## Hobbies and Interests 🌟
+#### **Biliki.AI** | Lead Developer & Architect *(2023–Present)*  
+📍 Remote (Tbilisi, Georgia)  
+- Built AI-driven travel platform with **NestJS microservices** and **Google Cloud**, scaling to 10k+ daily queries.  
+- Won **Google Startup Accelerator 2024**; optimized MySQL performance by 30%.  
 
-* Anime enthusiast 🎌
-* Avid gamer 🎮
-* Coffee connoisseur ☕
+#### **GM Pharma** | Lead Developer *(2023–2025)*  
+📍 Tbilisi, Georgia  
+- Automated workflows with Next.js/NestJS, reducing manual effort by 40%.  
+- Designed centralized analytics dashboard and managed AWS/Docker infrastructure.  
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irakli182&theme=dracula)
+#### **CypherX** | Middle Full-Stack Developer *(2022–2023)*  
+📍 Remote (Germany)  
+- Developed Web3 dApps using React.js/Solidity and streamlined CI/CD pipelines.  
 
-Feel free to reach out and connect! 📫
+#### **Freelance Developer** | Junior Full-Stack *(2020–2022)*  
+🌍 Worldwide  
+- Delivered 15+ projects, including REST APIs and educational tools like the [Cramer’s Rule Calculator](https://cramers.vercel.app/).  
 
-![Your GIF](https://i.pinimg.com/originals/68/d9/ab/68d9ab65ee90c04f7e7a26f8ff80c371.gif)
+---
+
+### 🎮 **Hobbies**  
+Anime | Gaming | Specialty Coffee | Open-Source Contributions  
+
+---
+
+✨ **Let’s Connect!**  
+[GitHub](https://github.com/irakli182) | [Portfolio](https://irakli.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/irakli-berikashvili-680002256/)  
+
+*“Turning coffee into code since 2020.”* ☕  
