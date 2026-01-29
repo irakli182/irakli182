@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 **About Me**  
-20-year-old **Senior Full-Stack Developer** with **4+ years** of experience building scalable web apps and AI solutions. Winner of **Google Startup Accelerator 2024** and co-author of a peer-reviewed scientific paper. Passionate about Next.js, NestJS, and sustainable tech.  
+21-year-old **Senior Full-Stack Developer** with **4+ years** of experience building scalable web apps and AI solutions. Winner of **Google Startup Accelerator 2024** and co-author of a peer-reviewed scientific paper. Passionate about Next.js, NestJS, and sustainable tech.  
 
 ---
 
@@ -30,12 +30,12 @@
 
 ### 🛠️ **Professional Experience**  
 
-#### **Biliki.AI** | Lead Developer & Architect *(2023–Present)*  
+#### **Biliki.AI** | Lead Developer & Architect *(2023–2025)*  
 📍 Remote (Tbilisi, Georgia)  
 - Built AI-driven travel platform with **NestJS microservices** and **Google Cloud**, scaling to 10k+ daily queries.  
 - Won **Google Startup Accelerator 2024**; optimized MySQL performance by 30%.  
 
-#### **GM Pharma** | Lead Developer *(2023–2025)*  
+#### **GM Pharma** | Lead Developer *(2023–present)*  
 📍 Tbilisi, Georgia  
 - Automated workflows with Next.js/NestJS, reducing manual effort by 40%.  
 - Designed centralized analytics dashboard and managed AWS/Docker infrastructure.  
